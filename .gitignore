@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore
+*.csv
+ignorar/
+contaminacion/
+CalidadAire.ipynb
+Fenologia.ipynb
+*.twb
+.DS_Store
