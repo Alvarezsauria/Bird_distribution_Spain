@@ -136,3 +136,5 @@ CalidadAire.ipynb
 Fenologia.ipynb
 *.twb
 .DS_Store
+*.twbr
+GBIF_visual.ipynb
