@@ -46,7 +46,7 @@ With more than 12 million of registers from observations in Spain, we study the 
         - Anser fabalis
 
 ![cerceta](https://www.fincacasarejo.com//Docs/Productos/Cerceta-pardilla.jpg)
-![flamenco](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiz6PctP5oowYMnd2xiKepwNS0VJcGE8iFsl67hjA5htjiCN8st9wH_8LMzTZOU9fPDs&usqp=CAU)
+![flamenco](https://i.pinimg.com/originals/b0/97/e4/b097e4788d54b24fd4dc714c478e45b7.jpg)
 ![correlimos](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Red-Knot_%28Calidris_canutus%29_RWD2.jpg/640px-Red-Knot_%28Calidris_canutus%29_RWD2.jpg)
 
 As a result of these conclusions, we suggest a deeper line of research centered on:
