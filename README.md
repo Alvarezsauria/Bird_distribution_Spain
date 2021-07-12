@@ -44,9 +44,8 @@ With more than 12 million of registers from observations in Spain, we study the 
         - Alle alle
         - Aix galericulata
         - Anser fabalis
-
-![cerceta](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Marmaronetta_angustirostris%2C_Torralba_de_Calatrava_1.jpg/440px-Marmaronetta_angustirostris%2C_Torralba_de_Calatrava_1.jpg)
 ![flamenco](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flam.lesser.600pix_%28Pingstone%29.jpg/250px-Flam.lesser.600pix_%28Pingstone%29.jpg)
+![cerceta](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Marmaronetta_angustirostris%2C_Torralba_de_Calatrava_1.jpg/440px-Marmaronetta_angustirostris%2C_Torralba_de_Calatrava_1.jpg)
 ![correlimos](https://radiolaisla.com/wp-content/uploads/2021/06/images-1-1.jpg)
 
 As a result of these conclusions, we suggest a deeper line of research centered on:
