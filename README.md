@@ -47,7 +47,7 @@ With more than 12 million of registers from observations in Spain, we study the 
 
 ![cerceta](https://www.fincacasarejo.com//Docs/Productos/Cerceta-pardilla.jpg)
 ![flamenco](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flam.lesser.600pix_%28Pingstone%29.jpg/250px-Flam.lesser.600pix_%28Pingstone%29.jpg)
-![correlimos](https://upload.wikimedia.org/wikipedia/commons/c/c2/Red-Knot_%28Calidris_canutus%29_RWD2.jpg)
+![correlimos](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Red-Knot_%28Calidris_canutus%29_RWD2.jpg/640px-Red-Knot_%28Calidris_canutus%29_RWD2.jpg)
 
 As a result of these conclusions, we suggest a deeper line of research centered on:
 - Marine waters: water pollution, overbuilding and traffic in nearby areas, effects of fishing
