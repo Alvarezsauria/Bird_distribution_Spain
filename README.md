@@ -45,9 +45,9 @@ With more than 12 million of registers from observations in Spain, we study the 
         - Aix galericulata
         - Anser fabalis
 
-![cerceta](https://www.fincacasarejo.com//Docs/Productos/Cerceta-pardilla.jpg)
-![flamenco](https://i.pinimg.com/originals/b0/97/e4/b097e4788d54b24fd4dc714c478e45b7.jpg)
-![correlimos](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Red-Knot_%28Calidris_canutus%29_RWD2.jpg/640px-Red-Knot_%28Calidris_canutus%29_RWD2.jpg)
+![cerceta](https://lh5.googleusercontent.com/-L_t2NRG_T3g/TYPgo3d6YDI/AAAAAAAAABo/JS9q4uuL0Y4/s1600/CERCETA_PARDILLA_H.jpg)
+![flamenco](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flam.lesser.600pix_%28Pingstone%29.jpg/250px-Flam.lesser.600pix_%28Pingstone%29.jpg)
+![correlimos](https://radiolaisla.com/wp-content/uploads/2021/06/images-1-1.jpg)
 
 As a result of these conclusions, we suggest a deeper line of research centered on:
 - Marine waters: water pollution, overbuilding and traffic in nearby areas, effects of fishing
