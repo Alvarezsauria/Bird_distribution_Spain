@@ -4,11 +4,14 @@
 ## <span style="color:green"> Context and objective </span>
 
 ***Birds are a miracle because they prove to us there is a finer, simpler state of being which we may strive to attain***
+
 *Douglas Coupland*
 
-Can you imagine life without birds?    
-They play a vital role in controlling pests and acting as pollinators. In addition, birds are important to humans in many ways, such as serving as a source of food and providing fertilizer in agricultural settings.    
+
+They play a vital role in controlling pests, pollinating plants, spreading seeds, oxigenating the air and tranforming pollutants into nutrients.
+
 They are not just creatures that beautify our planet but they also contribute to the balance and the operation of our ecosystem.     
+
 **As humans, we are responsible for their endangerment and preservation.**
 
 
@@ -26,7 +29,7 @@ With more than 12 million of registers from observations in Spain, we study the 
 - Enrichment data: API call to the IUCN Red List *International Union for Conservation of Nature*
     - Request,json
 - Visualizacion: Tableau
-    - https://dub01.online.tableau.com/#/site/alvarezsauria/workbooks/624675?:origin=card_share_link
+    -https://public.tableau.com/shared/RT8Q3CXJW?:display_count=n&:origin=viz_share_link
 
 
 ## <span style="color:green"> Conclusions </span>
@@ -44,12 +47,9 @@ With more than 12 million of registers from observations in Spain, we study the 
         - Alle alle
         - Aix galericulata
         - Anser fabalis
-        
-        
-![flamenco](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flam.lesser.600pix_%28Pingstone%29.jpg/250px-Flam.lesser.600pix_%28Pingstone%29.jpg)
-![cerceta](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Marmaronetta_angustirostris%2C_Torralba_de_Calatrava_1.jpg/440px-Marmaronetta_angustirostris%2C_Torralba_de_Calatrava_1.jpg)
-![correlimos](https://upload.wikimedia.org/wikipedia/commons/c/c2/Red-Knot_%28Calidris_canutus%29_RWD2.jpg)
+   
 
-As a result of these conclusions, we suggest a deeper line of research centered on:
-- Marine waters: water pollution, overbuilding and traffic in nearby areas, effects of fishing
-- Wetlands and fresh waters: use of pesticides in agriculture, transformation of humid areas into crops, drought
+As a result of these conclusions, we suggest a deeper line of research focused on the threats to acquatic birds caused by humans:
+
+- Marine waters: pollution, bycatch,  overbuilding and traffic in nearby areas
+- Wetlands and fresh waters: use of pesticides in agriculture, transformation of humid areas into crops and overexploitation of groundwaters
